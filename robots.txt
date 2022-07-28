@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://steambuygames.site/sitemap.xml
